@@ -12,6 +12,7 @@
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoutrace&show_icons=true&locale=en&layout=compact" alt="theoutrace" /></p>
+  <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=theoutrace&show_icons=true&locale=en" alt="theoutrace" /></p>
 </div>
 
