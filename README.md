@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4GLI9D)
 
 <!--
 **Theoutrace/Theoutrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
