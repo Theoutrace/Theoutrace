@@ -10,7 +10,24 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
+<h2>Some Projects : </h2>
 
+<h3>Ecommerce Website with basic functionalities: </h3>
+
+[ecommerce.webm](https://user-images.githubusercontent.com/103827746/205415880-2e84a8c1-e54b-4b6e-a721-ceb9155f5423.webm)
+
+
+<h3>Expense Tracker with basic functionalities: </h3>
+
+
+https://user-images.githubusercontent.com/103827746/205415965-10cf382d-6985-413f-8555-f43a09f5a3a0.mp4
+
+
+
+<h3>Mailbox with basic functionalities: </h3>
+
+
+[video (2).webm](https://user-images.githubusercontent.com/103827746/205416066-f9a7a94b-15d8-4a8d-a5c6-59d240c90f4d.webm)
 
 <!--
 **Theoutrace/Theoutrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
