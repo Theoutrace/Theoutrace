@@ -12,7 +12,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<h2>Some Projects : </h2>
+<h2>🚧 Some Projects : </h2>
 
 <h3>🐾 Ecommerce Website with basic functionalities: </h3>
 
