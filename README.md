@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/103827746/205415965-10cf382d-6985-413f
 [video (2).webm](https://user-images.githubusercontent.com/103827746/205416066-f9a7a94b-15d8-4a8d-a5c6-59d240c90f4d.webm)
 
 
-<h3>🐾 Test Platform for Ed-tech with basic functionalities: </h3>
+<h3>🐾 <a href='https://63a3457dbc886544a0eee42b--darling-salamander-183c0f.netlify.app/' target="_blank">Test Platform for Ed-tech with basic functionalities:</a> </h3>
 
 [video (4).webm](https://user-images.githubusercontent.com/103827746/208776349-7d5fec12-2c34-469d-81f8-abd4cbc5de80.webm)
 
