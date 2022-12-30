@@ -14,6 +14,11 @@
 
 <h2>🚧 Some Projects : </h2>
 
+<h3>🐾 <a href='https://cozy-panda-d162bb.netlify.app' target="_blank">WTF Fitness Webapp with asked functionalities:</> </h3>
+
+[video (6).webm](https://user-images.githubusercontent.com/103827746/210090487-eb052f0d-a767-4a6c-b414-84dbbf18d2a9.webm)
+
+
 <h3>🐾 <a href='https://63a48985c1cc694ae5166206--frabjous-hamster-8015db.netlify.app/' target="_blank">Ecommerce Website with basic functionalities:</> </h3>
 
 [ecommerce.webm](https://user-images.githubusercontent.com/103827746/205415880-2e84a8c1-e54b-4b6e-a721-ceb9155f5423.webm)
