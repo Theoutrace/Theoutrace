@@ -16,6 +16,7 @@
 <h2>🚧 Some Projects : </h2>
 
 <h3>🐾 <a href='https://cozy-panda-d162bb.netlify.app' target="_blank">WTF Fitness Webapp with asked functionalities:</> </h3>
+  <h2>Client : WTF</h2>
 
 [video (6).webm](https://user-images.githubusercontent.com/103827746/210090487-eb052f0d-a767-4a6c-b414-84dbbf18d2a9.webm)
 
@@ -39,7 +40,8 @@ https://user-images.githubusercontent.com/103827746/205415965-10cf382d-6985-413f
 
 
 <h3>🐾 <a href='https://63a3457dbc886544a0eee42b--darling-salamander-183c0f.netlify.app/' target="_blank">Test Platform for Ed-tech with basic functionalities:</a> </h3>
-
+<h2>Client : Seekho</h2>
+  
 [video (4).webm](https://user-images.githubusercontent.com/103827746/208776349-7d5fec12-2c34-469d-81f8-abd4cbc5de80.webm)
 
 
