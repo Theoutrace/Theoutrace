@@ -21,7 +21,8 @@
 <h2>🚧 Some Projects : </h2>
 
 <h3>🐾 <a href='https://cozy-panda-d162bb.netlify.app' target="_blank">WTF Fitness Webapp with asked functionalities:</> </h3>
-  <h2>Client : WTF    Repo Link: https://github.com/Theoutrace/WTF-fitness-platform-</h2>
+  <h2>Client : WTF</h2>
+  <h5> <a href='https://github.com/Theoutrace/WTF-fitness-platform-' target="_blank" > Click Here to check the code quality </a></h5>
 
 [video (6).webm](https://user-images.githubusercontent.com/103827746/210090487-eb052f0d-a767-4a6c-b414-84dbbf18d2a9.webm)
 
