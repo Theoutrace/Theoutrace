@@ -25,7 +25,7 @@
 
 <h3>🐾 Expense Tracker Webapp with asked functionalities: (React, Node, express, sequelize, mySQL used)</> </h3>
   <h2>Client : Sharpener</h2>
-  <h5> <a href='https://github.com/Theoutrace/MERN-Expense-Tracker' target="_blank" > Click Here to check the code quality </a></h5>
+  <h5> <a href='https://github.com/Theoutrace/MERN-Expense-Tracker' target="_blank" > Click Here to check the code quality </a> { Private } </h5>
 
 [video (1).webm](https://user-images.githubusercontent.com/103827746/216388048-0907b0b8-f321-4bf4-9f31-259b8573ede6.webm)
 
@@ -61,17 +61,3 @@ https://user-images.githubusercontent.com/103827746/205415965-10cf382d-6985-413f
 [video (4).webm](https://user-images.githubusercontent.com/103827746/208776349-7d5fec12-2c34-469d-81f8-abd4cbc5de80.webm)
 
 
-<!--
-**Theoutrace/Theoutrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
