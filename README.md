@@ -40,6 +40,8 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-1" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2FpinecartMkt.png&w=828&q=75" alt="Project 1 Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
+      <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2FpinecartFront.webp&w=828&q=75" alt="Project 1 Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
+      <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2FpinecartDash.avif&w=828&q=75" alt="Project 1 Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
       <h3 style="margin: 0; font-size: 1.25rem;">Pine cart</h3>
     </a>
   </div>
