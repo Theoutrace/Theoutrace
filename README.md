@@ -30,7 +30,12 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
 - Git  
 - HTML  
 - CSS  
-- Sass  
+- Sass
+
+### 🛠️ Professional Projects 
+
+![Alt text](https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2FpinecartMkt.png&w=828&q=75)
+
 
 
 
