@@ -17,12 +17,20 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>Next.Js</li>
-  <li>React.js</li>
-</ul>
-, React.js, Node.js, Redux, SQL, MongoDB, Supabase, Firebase, Git, Html, Css, Sass
+### 🛠️ Technologies & Tools  
+
+- React.js  
+- Node.js  
+- Redux  
+- SQL  
+- MongoDB  
+- Supabase  
+- Firebase  
+- Git  
+- HTML  
+- CSS  
+- Sass  
+
 
 
 
