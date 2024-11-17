@@ -108,7 +108,7 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
 </div>
 
 
-<h2>🚧 Some Projects : </h2>
+<h2>🚧 Personal Projects from 2022-23 learning phase : </h2>
 
 <h3>🐾 Expense Tracker Webapp with asked functionalities: (React, Node, express, sequelize, mySQL used)</> </h3>
   <h2>Client : Sharpener</h2>
