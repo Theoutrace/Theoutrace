@@ -48,7 +48,7 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
       <h3 style="margin: 0; font-size: 1.25rem;">Pine cart</h3>
     </a>
   </div>
-
+<hr>
   <!-- Project 2 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-2" target="_blank" style="text-decoration: none; color: inherit;">
@@ -56,7 +56,7 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
       <h3 style="margin: 0; font-size: 1.25rem;">Haapiful</h3>
     </a>
   </div>
-
+<hr>
   <!-- Project 3 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-3" target="_blank" style="text-decoration: none; color: inherit;">
@@ -64,7 +64,7 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
       <h3 style="margin: 0; font-size: 1.25rem;">Planning center</h3>
     </a>
   </div>
-
+<hr>
   <!-- Project 4 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-4" target="_blank" style="text-decoration: none; color: inherit;">
@@ -72,7 +72,7 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
       <h3 style="margin: 0; font-size: 1.25rem;">Deeplearning AI</h3>
     </a>
   </div>
-
+<hr>
     <!-- Project 5 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-4" target="_blank" style="text-decoration: none; color: inherit;">
@@ -80,31 +80,31 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
       <h3 style="margin: 0; font-size: 1.25rem;">Hire doer</h3>
     </a>
   </div>
-
-      <!-- Project 6 -->
+<hr>
+    <!-- Project 6 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-4" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2FdrootWeb.png&w=828&q=75" alt="Droot consulting Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
       <h3 style="margin: 0; font-size: 1.25rem;">Droot consulting</h3>
     </a>
   </div>
-  
-        <!-- Project 7 -->
+  <hr>
+    <!-- Project 7 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-4" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2Frecruitfy.png&w=828&q=75" alt="Recruitfy Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
       <h3 style="margin: 0; font-size: 1.25rem;">Recruitfy</h3>
     </a>
   </div>
-
-          <!-- Project 8 -->
+<hr>
+    <!-- Project 8 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center;">
     <a href="https://example.com/project-4" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="https://prakashdevelops.netlify.app/_next/image?url=%2Fassets%2Fimages%2Fosmic.png&w=828&q=75" alt="Osmic glass Screenshot" style="width: 100%; border-radius: 8px; margin-bottom: 10px;" />
       <h3 style="margin: 0; font-size: 1.25rem;">Osmic glass</h3>
     </a>
   </div>
-  
+  <hr>
 </div>
 
 
