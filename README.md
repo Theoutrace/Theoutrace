@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there 👋  
 
 I'm **Prakash Kumar**, a **Software Engineer** with experience in turning ideas into fully functional and scalable applications. From **concept to delivery**, I specialize in crafting high-quality web solutions that are optimized for **performance**, **SEO**, and **future scalability**.  
@@ -19,11 +18,13 @@ With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, a
 
 ### 🛠️ Technologies & Tools  
 
-- React.js  
+- React.js
+- Next.js  
 - Node.js  
 - Redux  
 - SQL  
-- MongoDB  
+- MongoDB
+- SocketIo  
 - Supabase  
 - Firebase  
 - Git  
