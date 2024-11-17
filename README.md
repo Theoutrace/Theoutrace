@@ -1,9 +1,13 @@
 ### Hi there 👋
+# Hi there 👋  
+
+I'm **Prakash Kumar**, a **Software Engineer** with experience in turning ideas into fully functional and scalable applications. From **concept to delivery**, I specialize in crafting high-quality web solutions that are optimized for **performance**, **SEO**, and **future scalability**.  
+
+With a deep understanding of **React**, **Next.js**, **Node.js**, **MongoDB**, and **MySQL**, I’ve successfully built and delivered over **16 projects**, including **3 full-fledged SaaS products** that cater to diverse industries. My expertise in **micro-frontends** and **micro-backends** allows me to design applications that are **modular**, **scalable**, and consumer-friendly. 🚀  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/prakashkumar_imw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakashkumar_imw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theoutrace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theoutrace" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/prakash-kumar-mishra/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="theoutrace" height="40" width="40" /></a>
 </p>
 <hr>
@@ -14,12 +18,12 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p aligh=> <a href="" target="_blank" rel="noreferrer"> <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fnextjs-icon%2F&psig=AOvVaw1TYHjiXQ5zVBw8sba3SciJ&ust=1731934635777000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjIxre144kDFQAAAAAdAAAAABAI' alt="Next Js" width="40" height="40"/>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="120" height="40"/> </a></p>
+<ul>
+  <li>Next.Js</li>
+  <li>React.js</li>
+</ul>
+, React.js, Node.js, Redux, SQL, MongoDB, Supabase, Firebase, Git, Html, Css, Sass
+
 
 
 <h2>🚧 Some Projects : </h2>
